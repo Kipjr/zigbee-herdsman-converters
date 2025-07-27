@@ -1,5 +1,18 @@
 # Changelog
 
+## [24.9.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v24.8.0...v24.9.0) (2025-07-27)
+
+
+### Features
+
+* **add:** ElectricityMeter-ABC-DIY ([#9663](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9663)) ([148ab14](https://github.com/Koenkk/zigbee-herdsman-converters/commit/148ab14814eee05fa58dcbdf153e0c0d8c639872))
+* **add:** ZHT-S03 ([#9690](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9690)) ([6510ef5](https://github.com/Koenkk/zigbee-herdsman-converters/commit/6510ef5134f952255d36f77eccc86632e6f26e66))
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZE204_6a4vxfnv` as Tuya TS0601_floor_thermostat ([#9694](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9694)) ([8cafb55](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8cafb558f20e3a9dea5e69bb6b50b055ff5f02b0))
+
 ## [24.8.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v24.7.0...v24.8.0) (2025-07-26)
 
 
